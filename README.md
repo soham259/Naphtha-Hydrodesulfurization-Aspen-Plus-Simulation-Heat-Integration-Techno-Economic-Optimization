@@ -359,7 +359,7 @@ Four sensitivity studies were conducted in Aspen Plus varying one parameter at a
 
 ## 📄 License
 
-This project is submitted as an academic B.Tech final year project. Simulation files and report are shared for educational reference only.
+This project is submitted as an academic B.Tech 3rd year project. Simulation files and report are shared for educational reference only.
 
 ---
 
